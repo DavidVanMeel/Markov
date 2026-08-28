@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Markov\Markov\bin\Debug\net10.0\Markov.exe
+C:\Users\david\source\repos\Markov\Markov\bin\Debug\net10.0\Markov.deps.json
+C:\Users\david\source\repos\Markov\Markov\bin\Debug\net10.0\Markov.runtimeconfig.json
+C:\Users\david\source\repos\Markov\Markov\bin\Debug\net10.0\Markov.dll
+C:\Users\david\source\repos\Markov\Markov\bin\Debug\net10.0\Markov.pdb
+C:\Users\david\source\repos\Markov\Markov\obj\Debug\net10.0\Markov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Markov\Markov\obj\Debug\net10.0\Markov.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Markov\Markov\obj\Debug\net10.0\Markov.AssemblyInfo.cs
+C:\Users\david\source\repos\Markov\Markov\obj\Debug\net10.0\Markov.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Markov\Markov\obj\Debug\net10.0\Markov.sourcelink.json
+C:\Users\david\source\repos\Markov\Markov\obj\Debug\net10.0\Markov.dll
+C:\Users\david\source\repos\Markov\Markov\obj\Debug\net10.0\refint\Markov.dll
+C:\Users\david\source\repos\Markov\Markov\obj\Debug\net10.0\Markov.pdb
+C:\Users\david\source\repos\Markov\Markov\obj\Debug\net10.0\Markov.genruntimeconfig.cache
+C:\Users\david\source\repos\Markov\Markov\obj\Debug\net10.0\ref\Markov.dll
